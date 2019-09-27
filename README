@@ -1,0 +1,5 @@
+This project deals with the creation of my own IoT device for lights control.
+For this device, I decided to use Raspberry Zero Pi W, which uses PHP and HTML
+programming language. I will use LEDs to demonstrate. Through Wi-Fi in the web interface,
+lights can be controlled. Also it can be controlled by a voice command through a smart
+assistant from Apple - Siri.
